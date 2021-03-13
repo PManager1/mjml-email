@@ -30,13 +30,13 @@
   <mj-body background-color="#ffffff">
     <mj-section padding="0px">
       <mj-column>
-        <mj-text font-size="1px" align="left" color="#ffffff" line-height="1px" font-family="'Open Sans', 'Raleway', Arial, Verdana, sans-serif" padding="0px"><span class="preheader"> No longer on backorder, the Royale is now here and waiting for you.
+        <mj-text font-size="1px" align="left" color="#ffffff" line-height="1px" font-family="'Open Sans', 'Raleway', Arial, Verdana, sans-serif" padding="0px"><span class="preheader"> Joint Venture opportunity with Equity Dental Partners. 
           </span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#f9f9f9">
       <mj-column>
-        <mj-text mj-class="body-text" font-size="14px" line-height="26px" letter-spacing="2px" text-transform="uppercase">non-ex board member </mj-text>
+        <mj-text mj-class="body-text" font-size="14px" line-height="26px" letter-spacing="2px" text-transform="uppercase"> Joint Venture opportunity</mj-text>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#f9f9f9" padding="0px">
@@ -50,23 +50,28 @@
 
         <mj-column width="100%">
           <mj-text mj-class="para">
-            <p>Dear Mr. Mark Patrick</p>
-            <p> I hope you and your family are healthy and well. </p>
+            <p>Dear Dr. Chandler Minh,</p>
+            <p>I enjoyed our discussion about your business.  </p>
+            <p> We are interested in acquiring your practice ABC Dental located in Los Angeles, CA. </p>
+            <p> We are principals (not business brokers) with adequate capital and financing, and we’re prepared to close very quickly in the right situation. 
+ </p>
+            <p> I have enclosed a copy of the professional profiles of our Board of Directors.  </p>
+            
+            <p> I am sure that as you review this, you will be impressed with the professional management expertise available.</p>
+            
+            <p>You have our assurance that all matters will be held in the strictest confidence. </p>
 
-            <p>I am a principal in a venture to consolidate the Dental industry. </p>
-
-            <p> We are assembling a world-class Non-Ex Board of Directors, which will be augmented with excellent legal and accounting representation.
-
-            </p>
-            <p> Founding Board members will be given equity and will never be asked to contribute capital. </p>
-            <p> Respecting the reputations of our Board members and conducting our business accordingly will be a core operating principle. </p>
-            <p> Time commitment: 1 hour/month for an initial couple of months, except when we get into an acquisition, all bets are off.</p>
-            <p>The intent is to guide the ship, not to actually row the boat. </p>
-            <p>It appears with your background, this might be a potential fit and worth discussing. </p>
-            <p>Current board members: MnA legal expert from a top law firm, Finance expert from top DSO in the midwest, 2 Industry experts ( CXOs from the top DSO).</p>
-            <p>If you agree, please use the following link to schedule a time for us as per your availability & I will send you a pdf with additional information about the venture. </p>
-            <p>https://calendly.com/equitydental/mnap</p>
-            <p>On the call, I’ll explain our plan, which will help you make an informed choice on whether we might be a fit. </p>
+            <p>I look forward to have another phone call to learn more about your company.  
+</p>
+           
+            <p>Please use the following Calendly link to schedule a time for us as per your availability. 
+.</p>
+            
+            <p>https://calendly.com/equity-dental/o </p>
+            
+            
+            <p>Please feel free to reach out to me anytime at : 714-606-7884</p>
+            
             <p>Thank you for taking the time to read my message. </p>
             <p></p>
           </mj-text>
