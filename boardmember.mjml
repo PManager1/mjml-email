@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>UGG Royale</mj-title>
+    <mj-title>Equity Dental Group</mj-title>
     <mj-attributes>
       <mj-image alt="" padding="0px"></mj-image>
       <mj-section padding="0px"></mj-section>
@@ -50,7 +50,7 @@
 
         <mj-column width="100%">
           <mj-text mj-class="para">
-            <p>Dear Mr. Chandler Minh,</p>
+            <p>Dear Mr. Walt Knysz,</p>
             <p>I hope you and your family are healthy and well. </p>
             <p> I am a principal in a venture to consolidate the Dental industry.   </p>
 
@@ -111,7 +111,7 @@
       <mj-column>
         <mj-text mj-class="footer-text" align="center" padding="0 10px">
           <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#111111; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;"> 
-            <a href="http://www.ugg.com/" name="footer_ugghomepage" style="color:#111111; text-decoration:underline;">www.equitydentalpartners.com</a>
+            <a href="http://www.eqdpi.com/" name="footer_equitys" style="color:#111111; text-decoration:underline;">www.equitydentalpartners.com</a>
           </p>
            
           <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#111111; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
@@ -120,15 +120,18 @@
               <br /> 1002 N Sacramento St, Orange, CA 92867
             </span>
             <br />
-            <a href="http://www.eqdpi.com/about" name="footer_privacy" style="color:#111111; text-decoration:underline;">
+            <a href="https://eqdpi.com/cb" name="footer_privacy" style="color:#111111;">
+              <strong>Current Board</strong>
+            </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://www.eqdpi.com" name="footer_privacy" style="color:#111111;">
               <strong>About Us</strong>
             </a>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="http://www.eqdpi.com/partner" style="text-decoration:underline; color:#111111;">
+            <a href="http://www.eqdpi.com/partner" style="color:#111111;">
               <strong>Partnership</strong>
               
                </a>&nbsp;&nbsp;|&nbsp;&nbsp;
-            <a href="http://www.eqdpi.com/partner" style="text-decoration:underline; color:#111111;">
-              <strong>Other</strong>
+            <a href="http://www.eqdpi.com/solutions" style="color:#111111;">
+              <strong>Solutions</strong>
               
             </a>&nbsp;&nbsp;&nbsp;&nbsp;
            
