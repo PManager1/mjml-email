@@ -1,5 +1,9 @@
 <mjml>
   <mj-head>
+   <mj-font name="Raleway"
+      href="https://fonts.googleapis.com/css?family=Raleway" />
+ <mj-font name="Varela Round"
+      href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" />      
     <mj-title>Equity Dental Group</mj-title>
     <mj-attributes>
       <mj-image alt="" padding="0px"></mj-image>
@@ -10,7 +14,7 @@
       <mj-class name="headline-text" font-family="Big Caslon, Garamond, Times, serif" color="#111111" font-size="40px" line-height="36px" align="center" text-transform="uppercase"></mj-class>
       
       <mj-class name="para" font-size="14px" font-family="Raleway" line-height="25px"></mj-class>
-      <mj-class name="sig" text-align="left" font-family="Raleway" line-height="8px">
+      <mj-class name="sig" text-align="left" font-family="Varela Round" line-height="8px">
       </mj-class>
 
     </mj-attributes>
@@ -32,7 +36,7 @@
   <mj-body background-color="#ffffff">
     <mj-section padding="0px">
       <mj-column> 
-        <mj-text font-size="1px" align="left" color="#ffffff" line-height="1px" font-family="'Open Sans', 'Raleway', Arial, Verdana, sans-serif" padding="0px"><span class="preheader">  Non Executive Member Board of Director 
+        <mj-text font-size="1px" align="left" color="#ffffff" line-height="1px" font-family="'Open Sans', 'Raleway', Arial, Verdana, sans-serif" padding="0px"><span class="preheader"> Non Executive Member Board of Director - 
           </span></mj-text>
       </mj-column>
     </mj-section>
@@ -52,7 +56,7 @@
 
         <mj-column width="100%">
           <mj-text mj-class="para">
-            <p>Dear Mr. Craig Abramowitz,</p>
+            <p>Dear Mr. Anthony Pantaleoni,</p>
             <p>I hope you and your family are healthy and well. </p>
             <p> I am a principal in a venture to consolidate the Dental industry.   </p>
 
@@ -84,9 +88,9 @@
             <p>Best regards, </p>
             <p>Jay Parteek </p>
             <p>Principal </p>
-            <p>Web: Eqdpi.com </p>
+            <p>Web: EquityDentalPartners.com </p>
             <p>Linkedin: www.linkedin.com/in/jayeqd </p>
-            <p>Email- Jay@eqdpi.com </p>
+            <p>Email- Jay@equitydentalpartners.com </p>
             <a href="(714)-606-7884" style="color: #111111;">C-(714)-606-7884</a>
           </mj-text>
         </mj-column>
@@ -125,7 +129,7 @@
       <mj-column>
         <mj-text mj-class="footer-text" align="center" padding="0 10px">
           <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#111111; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;"> 
-            <a href="http://www.eqdpi.com/" name="footer_equitys" style="color:#111111; text-decoration:underline;">www.eqdpi.com</a>
+            <a href="http://www.eqdpi.com/" name="footer_equitys" style="color:#111111; text-decoration:underline;">www.equitydentalpartners.com</a>
           </p>
            
           <p style="Margin:0; padding-bottom:10px; font-size:10px; line-height:15px; Margin-bottom:10px; color:#111111; font-family: 'Open Sans', 'Raleway', Arial, Helvetica, sans-serif;">
