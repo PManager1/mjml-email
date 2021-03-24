@@ -30,13 +30,13 @@
   <mj-body background-color="#ffffff">
     <mj-section padding="0px">
       <mj-column>
-        <mj-text font-size="1px" align="left" color="#ffffff" line-height="1px" font-family="'Open Sans', 'Raleway', Arial, Verdana, sans-serif" padding="0px"><span class="preheader"> Joint Venture opportunity with Equity Dental Partners. Please explore more by visiting the links at the bottom. 
+        <mj-text font-size="1px" align="left" color="#ffffff" line-height="1px" font-family="'Open Sans', 'Raleway', Arial, Verdana, sans-serif" padding="0px"><span class="preheader"> Joint Venture/ Getting Acquired opportunity with Equity Dental Partners. Please explore more by visiting the links at the bottom. 
           </span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#f9f9f9">
       <mj-column>
-        <mj-text mj-class="body-text" font-size="14px" line-height="26px" letter-spacing="2px" text-transform="uppercase"> Joint Venture opportunity</mj-text>
+        <mj-text mj-class="body-text" font-size="14px" line-height="26px" letter-spacing="2px" text-transform="uppercase"> Joint Venture/ Getting Acquired opportunity</mj-text>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#f9f9f9" padding="0px">
@@ -50,19 +50,27 @@
 
         <mj-column width="100%">
           <mj-text mj-class="para">
-            <p>Dear Dr. Chandler Minh,</p>
-            <p>I enjoyed our discussion about your business.  </p>
-            <p> We are interested in acquiring your practice ABC Dental located in Los Angeles, CA. </p>
-            <p> We are principals (not business brokers) with adequate capital and financing, and we’re prepared to close very quickly in the right situation. 
- </p>
-            <p> I have enclosed a copy of the professional profiles of our Board of Directors.  </p>
+            <p>Dear Dr. Elahe Wissinger,</p>
+            <p>We are interested in acquiring your practice Embellir Med Spa located in Tucson, AZ. 
+  </p>
+            <p> We are the buyers  (not business brokers) with adequate capital and financing, and we’re prepared to close very quickly in the right situation. 
+</p>
+
+
+            <p> Please understand as we experience rapid growth, we’ll need successful business people to become our future partners and associates in building this company to the great height we anticipate to attain.  </p>
+            <!-- <p> I have enclosed a copy of the professional profiles of our Board of Directors.  </p> -->
             
-            <p> I am sure that as you review this, you will be impressed with the professional management expertise available.</p>
+            <!-- <p> I am sure that as you review this, you will be impressed with the professional management expertise available.</p> -->
             
+            <p> So, if you have no intention of retiring, that’s great!  You could have the opportunity to become a big part of what promises to be an excited and rewarding future. </p>
+
             <p>You have our assurance that all matters will be held in the strictest confidence. </p>
 
-            <p>I look forward to have another phone call to learn more about your company.  
+            <p>We also understand that any transaction must provide mutual benefits in order to be viable.  
 </p>
+
+
+<p>I’d love to discuss your business over a phone call.  </p>
            
             <p>Please use the following Calendly link to schedule a time for us as per your availability. 
 .</p>
@@ -86,6 +94,22 @@
       <mj-section padding="10px 0 5px">
       
       </mj-section>
+
+       <mj-section>
+        <mj-column>
+          <mj-text mj-class="para">
+            <p>Best regards, </p>
+            <p>Jay Parteek </p>
+            <p>Principal </p>
+            <p>Web: Eqdpi.com </p>
+            <p>Linkedin: www.linkedin.com/in/jayeqd </p>
+            <p>Email- Jay@eqdpi.com </p>
+            <a href="(714)-606-7884" style="color: #111111;">C-(714)-606-7884</a>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
     
     </mj-wrapper>
     <mj-wrapper padding="0px">
